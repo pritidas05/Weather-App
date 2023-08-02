@@ -2,6 +2,9 @@
 # It's a Real time weather app by using openweathermap api
 
 
+![Weather app](https://github.com/pritidas05/Weather-App/assets/98904766/d0fec825-a48f-416c-bdbd-e9a24db7484a)
+
+
 
 In the project directory, you can run:
 
